@@ -1,0 +1,354 @@
+player_id,team_id,full_name,role,batting_style,bowling_style
+1,1,Scott Edwards,Wicket-keeper,Right-handed,
+2,1,Colin Ackermann,Unknown,Right-handed,
+3,1,Noah Croes,Unknown,Right-handed,
+4,1,Bas de Leede,Unknown,Left-handed,Right-arm medium
+5,1,Aryan Dutt,Bowler,Right-handed,Right-arm medium
+6,1,Fred Klaassen,Bowler,Right-handed,Right-arm medium
+7,1,Kyle Klein,Bowler,Right-handed,
+8,1,Michael Levitt,Batter,Right-handed,
+9,1,Zach Lion-Cachet,Unknown,Right-handed,
+10,1,Max O'Dowd,Batter,Left-handed,
+11,1,Logan van Beek,Unknown,Right-handed,Right-arm medium
+12,1,Timm van der Gugten,Bowler,Right-handed,
+13,1,Roelof van der Merwe,Unknown,Left-handed,Right-arm medium
+14,1,Paul van Meekeren,Bowler,Right-handed,
+15,1,Saqib Zulfiqar,Unknown,Right-handed,
+16,2,Salman Agha,Unknown,Right-handed,Right-arm medium
+17,2,Abrar Ahmed,Bowler,Right-handed,
+18,2,Babar Azam,Batter,Right-handed,
+19,2,Faheem Ashraf,Unknown,Right-handed,
+20,2,Fakhar Zaman,Batter,Left-handed,
+21,2,Khawaja Nafay,Unknown,Right-handed,
+22,2,Mohammad Nawaz,Unknown,Left-handed,
+23,2,Salman Mirza,Unknown,Right-handed,Right-arm fast
+24,2,Naseem Shah,Bowler,Right-handed,
+25,2,Sahibzada Farhan,Batter,Left-handed,
+26,2,Saim Ayub,Batter,Left-handed,Left-arm fast
+27,2,Shaheen Afridi,Bowler,Left-handed,
+28,2,Shadab Khan,Unknown,Left-handed,
+29,2,Usman Khan,Batter,Right-handed,Right-arm medium
+30,2,Usman Tariq,Bowler,Left-handed,
+31,3,Shai Hope,Batter,Right-handed,
+32,3,Shimron Hetmyer,Batter,Left-handed,
+33,3,Johnson Charles,Batter,Right-handed,Right-arm medium
+34,3,Roston Chase,All-rounder,Right-handed,Right-arm medium
+35,3,Matthew Forde,All-rounder,Right-handed,Right-arm medium
+36,3,Jason Holder,All-rounder,Right-handed,Spin
+37,3,Akeal Hosein,All-rounder,Right-handed,Right-arm medium
+38,3,Shamar Joseph,All-rounder,Right-handed,
+39,3,Brandon King,Batter,Right-handed,Right-arm medium
+40,3,Gudakesh Motie,All-rounder,Right-handed,
+41,3,Rovman Powell,Batter,Left-handed,Right-arm medium
+42,3,Sherfane Rutherford,All-rounder,Left-handed,
+43,3,Quentin Sampson,Unknown,Right-handed,
+44,3,Jayden Seales,Unknown,Right-handed,Right-arm medium
+45,3,Romario Shepherd,All-rounder,Right-handed,
+46,4,Richie Berrington,Unknown,Right-handed,
+47,4,Tom Bruce,Unknown,Right-handed,
+48,4,Matthew Cross,Wicket-keeper,Right-handed,Right-arm medium
+49,4,Brad Currie,Bowler,Right-handed,Right-arm medium
+50,4,Oliver Davidson,Bowler,Right-handed,Right-arm medium
+51,4,Chris Greaves,All-rounder,Right-handed,
+52,4,Zainullah Ihsan,Unknown,Right-handed,
+53,4,Michael Jones,Unknown,Right-handed,Right-arm medium
+54,4,Michael Leask,All-rounder,Right-handed,Right-arm medium
+55,4,Finlay McCreath,All-rounder,Right-handed,Right-arm medium
+56,4,Brandon McMullen,All-rounder,Right-handed,
+57,4,George Munsey,Unknown,Right-handed,
+58,4,Jack Jarvis,Unknown,Right-handed,Right-arm medium
+59,4,Mark Watt,Bowler,Right-handed,Right-arm medium
+60,4,Brad Wheal,Bowler,Right-handed,
+61,5,Suryakumar Yadav,Batter,Right-handed,Right-arm medium
+62,5,Abhishek Sharma,All-rounder,Left-handed,
+63,5,Tilak Varma,Batter,Left-handed,
+64,5,Sanju Samson,Wicket-keeper,Right-handed,Right-arm medium
+65,5,Shivam Dube,All-rounder,Left-handed,
+66,5,Ishan Kishan,Wicket-keeper,Left-handed,Right-arm medium
+67,5,Hardik Pandya,All-rounder,Right-handed,Left-arm fast
+68,5,Arshdeep Singh,Bowler,Right-handed,Right-arm fast
+69,5,Jasprit Bumrah,Bowler,Right-handed,Right-arm fast
+70,5,Mohammed Siraj,Bowler,Right-handed,Spin
+71,5,Varun Chakaravarthy,Bowler,Right-handed,Leg spin
+72,5,Kuldeep Yadav,Bowler,Right-handed,Spin
+73,5,Axar Patel,All-rounder,Left-handed,Spin
+74,5,Washington Sundar,All-rounder,Left-handed,
+75,5,Rinku Singh,Batter,Left-handed,Right-arm medium
+76,6,Mitchell Marsh,All-rounder,Right-handed,
+77,6,Xavier Bartlett,Unknown,Right-handed,Right-arm medium
+78,6,Cooper Connolly,All-rounder,Right-handed,
+79,6,Tim David,Batter,Right-handed,Right-arm medium
+80,6,Ben Dwarshuis,Bowler,Right-handed,Right-arm medium
+81,6,Cameron Green,All-rounder,Right-handed,Right-arm medium
+82,6,Nathan Ellis,Bowler,Right-handed,
+83,6,Travis Head,Batter,Right-handed,
+84,6,Josh Inglis,Unknown,Right-handed,Right-arm medium
+85,6,Matthew Kuhnemann,Bowler,Right-handed,Right-arm medium
+86,6,Glenn Maxwell,All-rounder,Right-handed,
+87,6,Matth Renshaw,Unknown,Right-handed,Right-arm medium
+88,6,Marcus Stoinis,All-rounder,Right-handed,Leg spin
+89,6,Adam Zampa,Bowler,Right-handed,
+90,6,Steve Smith,Batter,Right-handed,Right-arm medium
+91,7,Gerhard Erasmus,All-rounder,Left-handed,
+92,7,Zane Green,Unknown,Left-handed,Left-arm fast
+93,7,Bernard Scholtz,Bowler,Right-handed,Left-arm fast
+94,7,Ruben Trumpelmann,Bowler,Right-handed,Right-arm medium
+95,7,JJ Smit,All-rounder,Right-handed,Right-arm medium
+96,7,Jan Frylinck,All-rounder,Right-handed,
+97,7,Louren Steenkamp,Unknown,Right-handed,
+98,7,Malan Kruger,Unknown,Right-handed,Right-arm medium
+99,7,Jan Nicol Loftie-Eaton,All-rounder,Right-handed,Right-arm medium
+100,7,Jack Brassell,Bowler,Right-handed,Right-arm medium
+101,7,Alexander Volschenk,Bowler,Right-handed,
+102,7,JC Balt,Unknown,Right-handed,
+103,7,Dylan Leicher,Unknown,Right-handed,
+104,7,Willem Myburgh,Unknown,Right-handed,
+105,7,Max Heingo,Unknown,Right-handed,
+106,8,Sikandar Raza,Batter,Right-handed,
+107,8,Brian Bennett,Batter,Right-handed,
+108,8,Ryan Burl,Batter,Right-handed,Right-arm medium
+109,8,Graeme Cremer,Bowler,Right-handed,
+110,8,Brendan Taylor,Wicket-keeper,Right Handed ,Right-arm offbreak
+111,8,Brad Evans,All-rounder,Right-handed,
+112,8,Clive Madande,Batter,Right-handed,Right-arm medium
+113,8,Tinotenda Maposa,Bowler,Right-handed,
+114,8,Tadiwanashe Marumani,Batter,Right-handed,
+115,8,Wellington Masakadza,Unknown,Right-handed,
+116,8,Tony Munyonga,Unknown,Right-handed,
+117,8,Tashinga Musekiwa,Unknown,Right-handed,Right-arm medium
+118,8,Blessing Muzarabani,Bowler,Right-handed,
+119,8,Dion Myers,Unknown,Right-handed,Right-arm medium
+120,8,Richard Ngarava,Bowler,Right-handed,
+121,9,Jatinder Singh,Batter,Right-handed,
+122,9,Vinayak Shukla,Batter,Right-handed,Right-arm medium
+123,9,Mohammad Nadeem,All-rounder,Right-handed,Right-arm medium
+124,9,Shakeel Ahmad,Bowler,Right-handed,
+125,9,Hammad Mirza,Unknown,Right-handed,Right-arm medium
+126,9,Wasim Ali,All-rounder,Right-handed,Right-arm medium
+127,9,Karan Sonavale,All-rounder,Right-handed,
+128,9,Shah Faisal,Unknown,Right-handed,
+129,9,Nadeem Khan,Unknown,Right-handed,
+130,9,Sufyan Mehmood,Unknown,Right-handed,Right-arm medium
+131,9,Jay Odedra,Bowler,Right-handed,Right-arm medium
+132,9,Shafiq Jan,Bowler,Right-handed,
+133,9,Ashish Odedara,Unknown,Right-handed,
+134,9,Jiten Ramanandi,Unknown,Right-handed,Right-arm medium
+135,9,Aamir Kaleem,All-rounder,Right-handed,
+136,10,Harry Brook,Batter,Right-handed,Right-arm medium
+137,10,Rehan Ahmed,Bowler,Right-handed,Right-arm fast
+138,10,Jofra Archer,Bowler,Right-handed,
+139,10,Tom Banton,Wicket-keeper,Right-handed,Right-arm medium
+140,10,Jacob Bethell,All-rounder,Right-handed,
+141,10,Jos Buttler,Wicket-keeper,Right-handed,Right-arm medium
+142,10,Sam Curran,All-rounder,Right-handed,Right-arm medium
+143,10,Liam Dawson,All-rounder,Right-handed,
+144,10,Ben Duckett,Batter,Right-handed,Right-arm medium
+145,10,Will Jacks,All-rounder,Right-handed,Right-arm medium
+146,10,Jamie Overton,All-rounder,Right-handed,Leg spin
+147,10,Adil Rashid,Bowler,Right-handed,
+148,10,Philip Salt,Wicket-keeper,Right-handed,Right-arm fast
+149,10,Josh Tongue,Bowler,Right-handed,Right-arm medium
+150,10,Luke Wood,Bowler,Right-handed,
+151,11,Rohit Paudel,Unknown,Right-handed,
+152,11,Dipendra Singh Airee,Unknown,Right-handed,Leg spin
+153,11,Sandeep Lamichhane,Unknown,Left-handed,
+154,11,Kushal Bhurtel,Unknown,Right-handed,
+155,11,Aasif Sheikh,Wicket-keeper,Left-handed,
+156,11,Sundeep Jora,Unknown,Right-handed,
+157,11,Aarif Sheikh,Unknown,Left-handed,
+158,11,Basir Ahamad,Unknown,Right-handed,
+159,11,Sompal Kami,Unknown,Right-handed,
+160,11,Karan KC,Unknown,Right-handed,
+161,11,Nandan Yadav,Unknown,Right-handed,
+162,11,Gulshan Jha,Unknown,Right-handed,
+163,11,Lalit Rajbanshi,Unknown,Right-handed,
+164,11,Sher Malla,Unknown,Right-handed,
+165,11,Lokesh Bam,Unknown,Right-handed,Right-arm medium
+166,12,Aiden Markram,All-rounder,Right-handed,Right-arm medium
+167,12,Corbin Bosch,All-rounder,Right-handed,
+168,12,Dewald Brevis,Unknown,Right-handed,
+169,12,Quinton de Kock,Wicket-keeper,Left-handed,Right-arm medium
+170,12,Marco Jansen,All-rounder,Right-handed,Spin
+171,12,George Linde,All-rounder,Right-handed,Right-arm medium
+172,12,Keshav Maharaj,Bowler,Right-handed,Right-arm medium
+173,12,Kwena Maphaka,Bowler,Right-handed,
+174,12,David Miller,Batter,Left-handed,Left-arm fast
+175,12,Lungi Ngidi,Bowler,Right-handed,Right-arm fast
+176,12,Anrich Nortje,Bowler,Right-handed,Left-arm fast
+177,12,Kagiso Rabada,Bowler,Right-handed,Right-arm medium
+178,12,Ryan Rickelton,All-rounder,Right-handed,Right-arm medium
+179,12,Jason Smith,All-rounder,Right-handed,Right-arm medium
+180,12,Tristan Stubbs,All-rounder,Right-handed,Right-arm medium
+181,13,Mitchell Santner,All-rounder,Right-handed,
+182,13,Finn Allen,Batter,Left-handed,
+183,13,Mark Chapman,Batter,Right-handed,
+184,13,Devon Conway,Batter,Left-handed,Right-arm medium
+185,13,Jacob Duffy,Bowler,Right-handed,Right-arm fast
+186,13,Lockie Ferguson,Bowler,Right-handed,Right-arm medium
+187,13,Matt Henry,Bowler,Right-handed,Right-arm medium
+188,13,Kyle Jamieson,Bowler,Right-handed,
+189,13,Daryl Mitchell,Batter,Left-handed,Right-arm medium
+190,13,James Neesham,All-rounder,Left-handed,
+191,13,Glenn Phillips,Batter,Right-handed,Right-arm medium
+192,13,Rachin Ravindra,All-rounder,Left-handed,
+193,13,Tim Seifert,Wicket-keeper,Right-handed,Leg spin
+194,13,Ish Sodhi,Bowler,Right-handed,
+195,13,Cole McConchie,Unknown,Right-handed,Leg spin
+196,14,Rashid Khan,Bowler,Right-handed,Leg spin
+197,14,Noor Ahmad,Bowler,Right-handed,
+198,14,Abdullah Ahmadzai,Unknown,Right-handed,
+199,14,Sediqullah Atal,Unknown,Left-handed,Left-arm fast
+200,14,Fazalhaq Farooqi,Bowler,Right-handed,
+201,14,Rahmanullah Gurbaz,Wicket-keeper,Right-handed,
+202,14,Mohammad Ishaq Rahimi,Unknown,Right-handed,
+203,14,Shahidullah Kamal,Unknown,Left-handed,Right-arm medium
+204,14,Mohammad Nabi,All-rounder,Right-handed,Right-arm medium
+205,14,Gulbadin Naib,All-rounder,Right-handed,Right-arm medium
+206,14,Azmatullah Omarzai,All-rounder,Right-handed,Right-arm medium
+207,14,Mujeeb Ur Rahman,Bowler,Right-handed,
+208,14,Darwish Rasooli,Unknown,Right-handed,
+209,14,Ibrahim Zadran,Unknown,Right-handed,Left-arm fast
+210,14,Ziaur Rahman Sharifi,Bowler,Right-handed,Right-arm medium
+211,15,George Munsey,Wicket-keeper,Left-handed,Right-arm medium
+212,15,Ross Adair,Unknown,Right-handed,Right-arm medium
+213,15,Benjamin Calitz ,All-rounder,Right-handed,Right-arm medium
+214,15,Curtis Campher,All-rounder,Right-handed,Right-arm medium
+215,15,Gareth Delany,All-rounder,Right-handed,Right-arm medium
+216,15,George Dockrell,All-rounder,Right-handed,Right-arm medium
+217,15,Matthew Humphreys,Bowler,Right-handed,Right-arm medium
+218,15,Joshua Little,Bowler,Right-handed,Right-arm medium
+219,15,Barry McCarthy,Bowler,Right-handed,
+220,15,Harry Tector,Unknown,Right-handed,
+221,15,Tim Tector,Unknown,Right-handed,
+222,15,Lorcan Tucker,Wicket-keeper,Right-handed,
+223,15,Sam Topping,Unknown,Right-handed,Right-arm medium
+224,15,Benjamin White ,Bowler,Right-handed,Right-arm medium
+225,15,Craig Young,Bowler,Right-handed,
+226,16,Wayne Madsen,Batter,Right-handed,
+227,16,Marcus Campopiano,Batter,Right-handed,Right-arm medium
+228,16,Gian Piero Meade,Bowler,Right-handed,
+229,16,Zain Ali,Batter,Right-handed,
+230,16,Ali Hasan,Unknown,Right-handed,
+231,16,Crishan Kalugamage,Unknown,Right-handed,Right-arm medium
+232,16,Harry Manenti,All-rounder,Right-handed,
+233,16,Anthony Mosca,Batter,Right-handed,
+234,16,Justin Mosca,Batter,Right-handed,
+235,16,Syed Naqvi,Batter,Right-handed,
+236,16,Ben Manenti,Unknown,Right-handed,Right-arm medium
+237,16,Jaspreet Singh,Bowler,Right-handed,Right-arm medium
+238,16,JJ Smuts,All-rounder,Right-handed,Right-arm medium
+239,16,Grant Stewart,All-rounder,Right-handed,Right-arm medium
+240,16,Thomas Draca,Bowler,Right-handed,
+241,17,Dilpreet Bajwa,Batter,Left-handed,
+242,17,Ajayveer Hundal,Batter,Right-handed,
+243,17,Ansh Patel,Batter,Right-handed,Right-arm medium
+244,17,Dilon Heyliger,Bowler,Right-handed,Right-arm medium
+245,17,Harsh Thaker,All-rounder,Right-handed,Right-arm medium
+246,17,Jaskaran Singh,Bowler,Right-handed,Left-arm fast
+247,17,Kaleem Sana,Bowler,Right-handed,
+248,17,Kanwarpal Tathgur,Unknown,Right-handed,
+249,17,Navneet Dhaliwal,Batter,Right-handed,
+250,17,Nicholas Kirton,Batter,Right-handed,
+251,17,Ravinderpal Singh,Batter,Right-handed,Right-arm medium
+252,17,Saad Bin Zafar,All-rounder,Right-handed,Right-arm medium
+253,17,Shivam Sharma,Bowler,Right-handed,
+254,17,Shreyas Movva,Unknown,Right-handed,
+255,17,Yuvraj Samra,Batter,Left-handed,
+256,18,Monank Patel,Batter,Right-handed,Right-arm medium
+257,18,Ehsan Adil,Bowler,Right-handed,
+258,18,Andries Gous,Batter,Right-handed,
+259,18,Shehan Jayasuriya,Unknown,Right-handed,
+260,18,Milind Kumar,Batter,Right-handed,
+261,18,Shayan Jahangir,Batter,Left-handed,
+262,18,Saiteja Mukkamalla,Batter,Right-handed,
+263,18,Sanjay Krishnamurthi,Batter,Right-handed,Right-arm medium
+264,18,Harmeet Singh,All-rounder,Left-handed,Right-arm medium
+265,18,Nosthush Kenjige,Bowler,Right-handed,Right-arm medium
+266,18,Shadley Van Schalkwyk,All-rounder,Right-handed,Right-arm medium
+267,18,Saurabh Netravalkar,Bowler,Right-handed,Right-arm medium
+268,18,Ali Khan,Bowler,Right-handed,Right-arm medium
+269,18,Mohammad Mohsin,Bowler,Right-handed,
+270,18,Shubham Ranjane,Batter,Right-handed,
+271,19,Muhammad Waseem,Batter,Right-handed,
+272,19,Alishan Sharafu,Batter,Right-handed,
+273,19,Aryansh Sharma,Batter,Right-handed,Right-arm medium
+274,19,Dhruv Parashar,All-rounder,Right-handed,
+275,19,Haider Ali,Batter,Right-handed,Right-arm medium
+276,19,Harshit Kaushik,All-rounder,Right-handed,Right-arm medium
+277,19,Junaid Siddique,Bowler,Right-handed,Right-arm medium
+278,19,Mayank Kumar,Bowler,Right-handed,
+279,19,Muhammad Arfan,Unknown,Right-handed,Right-arm medium
+280,19,Muhammad Farooq,Bowler,Right-handed,Right-arm medium
+281,19,Muhammad Jawadullah,Bowler,Right-handed,Right-arm medium
+282,19,Muhammad Zohaib,All-rounder,Right-handed,Right-arm medium
+283,19,Md. Rohid Khan,Bowler,Right-handed,
+284,19,Sohaib Khan,Unknown,Right-handed,Right-arm medium
+285,19,Simranjeet Singh,Bowler,Right-handed,Right-arm medium
+286,20,Dasun Shanaka,All-rounder,Right-handed,
+287,20,Pathum Nissanka,Batter,Left-handed,
+288,20,Kamil Mishara,Batter,Left-handed,
+289,20,Kusal Mendis,Wicket-keeper,Left-handed,Right-arm medium
+290,20,Kamindu Mendis,All-rounder,Left-handed,
+291,20,Kusal Perera,Batter,Left-handed,
+292,20,Charith Asalanka,Batter,Right-handed,
+293,20,Janith Liyanage,Batter,Right-handed,
+294,20,Pavan Rathnayake,Batter,Right-handed,Right-arm medium
+295,20,Dushan Hemantha,All-rounder,Right-handed,Right-arm medium
+296,20,Dunith Wellalage,All-rounder,Left-handed,Spin
+297,20,Maheesh Theekshana,Bowler,Right-handed,Right-arm fast
+298,20,Dushmantha Chameera,Bowler,Right-handed,Right-arm fast
+299,20,Matheesha Pathirana,Bowler,Right-handed,Right-arm medium
+300,20,Eshan Malinga,Bowler,Right-handed,
+301,15,Mark Adair,All-rounder,Right-handed,
+302,15,Matthew Cross,Wicket-keeper,Right-handed,
+303,15,Brandon McMullen,All-rounder,Right-handed,Right-arm medium
+304,15,Michael Jones,Batter,Right-handed,Right-arm offbreak
+305,15,Tom Bruce,All-rounder,Right-handed,Right-arm offbreak
+306,15,Richie Berrington,All-rounder,Right-handed,Right-arm fast-medium
+307,15,Michael Leask,All-rounder,Right-handed,Right-arm offbreak
+308,15,Oliver Davidson,Bowler,Left-handed,Left-arm orthodox
+309,15,Mark Watt,All-rounder,Left-handed,Left-arm orthodox
+310,15,Brad Currie,Bowler,Right-handed,Left-arm fast-medium
+311,15,Safyaan Sharif,Bowler,Right-handed,Right-arm fast-medium
+312,15,Zainullah Ihsan,Bowler,Right-handed,Right-arm fast-medium
+313,15,Brad Wheal,Bowler,Right-handed,Right-arm fast-medium
+314,15,Paul Stirling,All-rounder,Right-handed,Right-arm offbreak
+315,15,Finlay McCreath,All-rounder,Right-handed,
+316,15,Chris Greaves,Bowler,Right-handed,Right-arm legbreak
+317,16,Monank Patel,Wicket-keeper,Right-handed,
+318,16,Andries Gous,Wicket-keeper,Right-handed,
+319,16,Saiteja Mukkamalla,Batter,Right-handed,Right-arm offbreak
+320,16,Milind Kumar,All-rounder,Right-handed,Right-arm offbreak
+321,16,Sanjay Krishnamurthi,All-rounder,Right-handed,Left-arm orthodox
+322,16,Shubham Ranjane,All-rounder,Right-handed,Right-arm medium
+323,16,Harmeet Singh,All-rounder,Left-handed,Left-arm orthodox
+324,16,Mohammad Mohsin,All-rounder,Left-handed,Right-arm legbreak
+325,16,Shadley van Schalkwyk,All-rounder,Left-handed,Right-arm fast-medium
+326,16,Ali Khan,Bowler,Right-handed,Right-arm fast-medium
+327,16,Saurabh Netravalkar,Bowler,Right-handed,Left-arm fast-medium
+328,16,Shayan Jahangir,Batter,Right-handed,Right-arm medium
+329,16,Nosthush Kenjige,Bowler,Right-handed,Left-arm orthodox
+330,16,Shehan Jayasuriya,All-rounder,Left-handed,Right-arm offbreak
+331,16,Jasdeep Singh,Bowler,Right-handed,Right-arm medium
+332,17,Rohit Paudel,All-rounder,Right-handed,Right-arm offbreak
+333,17,Kushal Bhurtel,Batter,Right-handed,Right-arm legbreak
+334,17,Aasif Sheikh,Wicket-keeper,Right-handed,Right-arm medium
+335,17,Dipendra Singh Airee,All-rounder,Right-handed,Right-arm offbreak
+336,17,Aarif Sheikh,All-rounder,Right-handed,Right-arm fast-medium
+337,17,Lokesh Bam,Wicket-keeper,Right-handed,Right-arm medium
+338,17,Gulsan Jha,All-rounder,Left-handed,Right-arm medium
+339,17,Karan KC,All-rounder,Right-handed,Right-arm medium
+340,17,Nandan Yadav,All-rounder,Right-handed,Right-arm medium
+341,17,Sandeep Lamichhane,Bowler,Right-handed,Right-arm legbreak
+342,17,Sher Malla,Bowler,Left-handed,Right-arm offbreak
+343,17,Sompal Kami,All-rounder,Right-handed,Right-arm fast-medium
+344,17,Sundeep Jora,Batter,Right-handed,
+345,17,Basir Ahamad,Bowler,Left-handed,Left-arm orthodox
+346,17,Lalit Rajbanshi,Bowler,Right-handed,Left-arm orthodox
+347,19,Syed Haider,Wicket-keeper,Right-handed,
+348,20,Wanindu Hasaranga,All-rounder,Right-handed,Right-arm legbreak
+349,20,Dilshan Madushanka,Bowler,Right-handed,Left-arm fast-medium
+350,20,Pramod Madushan,Bowler,Right-handed,Right-arm fast-medium
+351,7,Ben Shikongo,Bowler,Right-handed,Right-arm fast-medium
+352,7,Jan Balt ,All-rounder,Left-handed,Right-arm offbreak
+353,8,Ben Curran,Unknown,Right-handed,Right-arm medium
